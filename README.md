@@ -122,7 +122,11 @@ La temática para esta practica de paginas web será una pagina informativa del 
   
 
 4. Datos del repositorio URL
+Trabajo de paginas html
 https://github.com/aviscainoc/Programacion-Hipermedeial.git
+Trabajo de tutorial en clases
+https://github.com/aviscainoc/Tutortial-Cubside.git
+
 Usuario:
 aviscainoc
 
